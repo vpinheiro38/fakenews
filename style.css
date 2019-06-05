@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    margin-top: 0;
+    width: 100%;
+    background-color: #6495ed;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+h1, h3 {
+    color: #ffffff;
+    margin-left: 10%;
+    margin-right: 10%;
+}
